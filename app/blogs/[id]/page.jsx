@@ -8,7 +8,7 @@
 // import React, { useEffect, useState } from "react";
 // import { use } from "react";
 
-// const page = ({params}) => {
+// const Page = ({params}) => {
 //   const [data, setData] = useState(null);
 //   const fetchBlogData=async ()=>{
 //     const response = await axios.get('/api/blog',{
@@ -54,7 +54,10 @@
 //   );
 // };
 
-// export default page;
+// export default Page;
+
+
+// 
 "use client";
 
 import { assets } from "@/Assets/assets";
