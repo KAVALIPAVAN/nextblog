@@ -16,5 +16,6 @@ module.exports = {
       },
     },
   },
+  safelist: ['flex', 'justify-center', 'items-center', 'text-center'],
   plugins: [],
 };
