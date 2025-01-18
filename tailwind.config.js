@@ -16,6 +16,15 @@ module.exports = {
       },
     },
   },
-  safelist: ['flex', 'justify-center', 'items-center', 'text-center'],
+    safelist: [
+      'bg-black', 
+      'text-white', 
+      'py-1', 
+      'px-4', 
+      'rounded-sm',
+      'flex', 
+      'justify-center', 
+      'items-center',
+    ],
   plugins: [],
 };
